@@ -1,6 +1,6 @@
 {
-	"name": "Simple PWA",
-	"short_name": "Simple PWA",
+	"name": "MGP Demo",
+	"short_name": "MGP Demo",
 	"display": "standalone",
 	"start_url": "./?utm_source=pwa_install",
 	"scope": ".",
