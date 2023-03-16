@@ -1,4 +1,4 @@
-const cacheName = "cache1"; // Change value to force update
+const cacheName = "cache2"; // Change value to force update
 
 self.addEventListener("install", event => {
 	// Kick out the old service worker
@@ -137,7 +137,6 @@ self.addEventListener("install", event => {
 				"images/trg-welcome-0.png",
 				"images/pp-inbox.png",
 				"images/trg-welcome-1.png",
-				"js/.DS_Store",
 				"js/ExpViewer.js",
 				"js/AbstractViewer.js",
 				"js/CommentsViewer.js",
